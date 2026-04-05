@@ -2,7 +2,7 @@
 
 ## OVERVIEW
 
-AI-based system predicting delivery delays for Talabat (UAE's leading food delivery platform). Uses machine learning to forecast whether an order will be delayed and how severe the delay will be—enabling proactive interventions before delays occur.
+AI-based system predicting delivery delays for Talabat (UAE's leading food delivery platform). Uses machine learning to forecast whether an order will be delayed and how severe the delay will be, enabling proactive interventions before delays occur.
 
 ## WHAT IT DOES
 
@@ -22,7 +22,7 @@ AI-based system predicting delivery delays for Talabat (UAE's leading food deliv
 
 ### TASK 2 - Regression Performance 
 - Best Model: Random Forest Regressor (MAE: 4.70 minutes)
-- Predicts delay severity within ~5 minutes margin
+- Predicts delay severity within ~ 5 minutes margin
 
 ## TECH STACK 
 
