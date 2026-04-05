@@ -32,5 +32,7 @@ AI-based system predicting delivery delays for Talabat (UAE's leading food deliv
 
 ## FILES 
 
-- 'Talabat_Delivery_Prediction.ipynb' - Complete implementation
 - 'CSCI323_Project_Report.pdf' - Full project documentation
+
+## DISCLAIMER
+**This repository is for viewing purposes only. The code is not licensed for copying, modification, or commercial use without explicit permission from the author.**
