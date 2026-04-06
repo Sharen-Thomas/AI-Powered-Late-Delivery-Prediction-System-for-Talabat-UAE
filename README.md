@@ -32,7 +32,7 @@ AI-based system predicting delivery delays for Talabat (UAE's leading food deliv
 
 ## FILES 
 
-- 'CSCI323_Project_Report.pdf' - Full project documentation
+- 'CSCI323_Project_Report.pdf' - Complete project documentation
 
 ## DISCLAIMER
 **This repository is for viewing purposes only. It is not licensed for copying, modification, or commercial use without explicit permission from the author.**
